@@ -1,1 +1,1 @@
-Send Message to OpenSpeedy's MainWindow and OpenSpeedy Modify Speed dynamicly.
+Send Message to OpenSpeedy's MainWindow and Allow it to dynamically adjust the acceleration.
